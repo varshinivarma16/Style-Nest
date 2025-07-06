@@ -1,0 +1,15 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/collections/mens/best-sellers/page": "app/collections/mens/best-sellers/page.js",
+  "/collections/mens/clothing/page": "app/collections/mens/clothing/page.js",
+  "/collections/mens/denim/page": "app/collections/mens/denim/page.js",
+  "/collections/mens/pants/page": "app/collections/mens/pants/page.js",
+  "/collections/mens/shirts/page": "app/collections/mens/shirts/page.js",
+  "/collections/mens/tees/page": "app/collections/mens/tees/page.js",
+  "/collections/womens/best-sellers/page": "app/collections/womens/best-sellers/page.js",
+  "/collections/womens/clothing/page": "app/collections/womens/clothing/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/overview/page": "app/overview/page.js",
+  "/page": "app/page.js",
+  "/womens/page": "app/womens/page.js"
+}
